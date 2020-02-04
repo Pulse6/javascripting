@@ -16,5 +16,5 @@ for (let i = 0; i < input.length; i++) {
   } else {
     temp += input[i];
   }
-};
+}
 console.log(temp);
